@@ -1,16 +1,11 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+	"users": [
+		{
+			"noid": 1,
+			"username": "satu",
+			"password": "1",
+			"id": 1
+		}
+	],
+	"todo": []
 }
